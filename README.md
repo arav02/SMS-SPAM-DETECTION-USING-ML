@@ -9,7 +9,7 @@ The exponential rise in mobile communication has led to a surge in unsolicited S
 
 ![image](https://github.com/arav02/SMS-SPAM-DETECTION-USING-ML/assets/83217942/55104789-9566-41be-a485-9c22f0ad66bd)
 
-#RESULT:
+# RESULT:
 
 ![image](https://github.com/arav02/SMS-SPAM-DETECTION-USING-ML/assets/83217942/3fff58f5-8a46-473e-9af7-701dba172e1a)
 
